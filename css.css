@@ -1,9 +1,10 @@
 :root {
    /* Modify these to change your theme colors: */
    --primary: #000000;
-   --text: #f44245;
+   --text: #666666;
    --background: #000000;
    --background-elevated: #000000;
+   --background-color: #00000000
 
    /* These should be less important: */
    --background-hover: rgba(5, 0, 114, 0.1);
